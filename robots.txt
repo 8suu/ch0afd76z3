@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://duniaslot88.dontkillmyapp.com/sitemap.xml
